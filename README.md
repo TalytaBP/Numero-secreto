@@ -1,5 +1,9 @@
 <h1>Jogo de número secreto</h1>
+<div align="center">
 
+  <img src="https://img.shields.io/badge/status-desenvolvimento-green?style=for-the-badge">
+
+</div>
 <h2> 📝 Sobre</h2>
 <p>Projeto utilizado nos cursos de lógica de programação da Alura.</p>
 <p>Nome do curso: </p>
