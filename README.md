@@ -12,3 +12,4 @@
 </div>
 
 ## Colaborador
+<img loading="lazy" src="https://github.com/user-attachments/assets/8574ae05-d0c5-402d-8c1a-bfab17bdf955" width=115><br><sub>Talyta Perrotti</sub>
