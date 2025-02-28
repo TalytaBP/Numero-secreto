@@ -6,7 +6,7 @@
 </div>
 <h2> 📝 Sobre</h2>
 <p>Projeto utilizado nos cursos de lógica de programação da Alura.</p>
-<p>Nome do curso: </p>
+<p>Nome do curso: Git e GitHub: compartilhando e colaborando em projetos  </p>
 
 ## Tecnologias
 <div>
