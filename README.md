@@ -15,9 +15,9 @@
   <img src="https://img.shields.io/badge/JavaScripst-orange?style=flat&logo=javascript&logoColor-black">
 </div>
 
-[![Jogo de número secreto](https://github-readme-stats.vercel.app/api?username=TALYTABP&show_icons=true&theme=radical&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
+[![Talyta Perrotti](https://github-readme-stats.vercel.app/api?username=TALYTABP&show_icons=true&theme=radical&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Jogo de número secreto](https://github-readme-stats.vercel.app/api?username=TALYTABP&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Talyta Perrotti](https://github-readme-stats.vercel.app/api?username=TALYTABP&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Teste
 
